@@ -1,0 +1,131 @@
+{
+    "Collections":[
+        {
+            "name":"City",
+            "preview_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/city01.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/city01.jpg"
+        },
+        {
+            "name":"Devices",
+            "preview_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/device02.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/device02.jpg"
+        },
+        {
+            "name":"Other",
+            "preview_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other03.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other03.jpg"
+        },
+        {
+            "name":"Scenes",
+            "preview_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene03.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene03.jpg"
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"City 01",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/city01.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/city01.jpg",
+            "collections":"City,featured"
+        },
+        {
+            "name":"Devices 01",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/device01.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/device01.jpg",
+            "collections":"Devices"
+        },
+        {
+            "name":"Devices 02",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/device02.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/device02.jpg",
+            "collections":"Devices,featured"
+        },
+        {
+            "name":"Other 01",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other01.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other01.jpg",
+            "collections":"Other"
+        },
+        {
+            "name":"Other 02",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other02.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other02.jpg",
+            "collections":"Other"
+        },
+        {
+            "name":"Other 03",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other03.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other03.jpg",
+            "collections":"Other"
+        },
+        {
+            "name":"Other 04",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other04.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other04.jpg",
+            "collections":"Other"
+        },
+        {
+            "name":"Other 05",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other05.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other05.jpg",
+            "collections":"Other"
+        },
+        {
+            "name":"Other 06",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other06.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/other06.jpg",
+            "collections":"Other,featured"
+        },
+        {
+            "name":"Scene 01",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene01.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene01.jpg",
+            "collections":"Scenes"
+        },
+        {
+            "name":"Scene 02",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene02.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene02.jpg",
+            "collections":"Scenes"
+        },
+        {
+            "name":"Scene 03",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene03.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene03.jpg",
+            "collections":"Scenes"
+        },
+        {
+            "name":"Scene 04",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene04.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene04.jpg",
+            "collections":"Scenes"
+        },
+        {
+            "name":"Scene 05",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene05.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene05.jpg",
+            "collections":"Scenes"
+        },
+        {
+            "name":"Scene 06",
+            "author":"Unsplash",
+            "url":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene06.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/reneantonio14/universal-walls/master/scene06.jpg",
+            "collections":"Scenes,featured"
+        }
+    ]
+}
